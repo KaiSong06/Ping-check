@@ -3,4 +3,4 @@ To use these programs, you must change the driver variable from "Safari" to your
 
 
 This program was created to provide a solution to my problem of not knowing when my connection would be stable enough to play ranked mode on League of Legends as I would 
-frequently experience high ping. I hope that this program can provide a solution to others in a similar situation.
+frequently experience high ping.
